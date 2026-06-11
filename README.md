@@ -149,8 +149,8 @@ dubstep-script/
 
 | Платформа | Ссылка |
 |-----------|--------|
-| GitHub | [DUBSTEP SCRIPT](https://github.com/GrinchFour/DUBSTEP-SCRIPT) |
-| Behance | [constantchoice](https://www.behance.net/GrinchFour) |
+| GitHub | [DUBSTEP SCRIPT](https://github.com/constantchoice/DUBSTEP-SCRIPT) |
+| Behance | [constantchoice](https://www.behance.net/constantchoice) |
 | Email | grigrinyouu@gmail.com |
 
 > **Не жди, пока конкуренты возьмут твой рынок**  
